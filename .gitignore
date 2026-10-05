@@ -1,0 +1,36 @@
+ Secrets and credentials
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+credentials.json
+secrets.json
+token*
+*secret*
+
+ Wazuh / security credentials
+wazuh-passwords*
+wazuh-credentials*
+cluster-key*
+api-credentials*
+
+ Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+ OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+ IDE / editor files
+.vscode/
+.idea/
+
+ Archives
+*.zip
+*.7z
+*.rar
