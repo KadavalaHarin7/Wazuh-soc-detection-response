@@ -524,19 +524,18 @@ Technologies
 
 
 
-Project Outcome
+ Project Outcome
 
+This lab provided hands-on experience across the SOC workflow, from endpoint and network telemetry collection through custom detection engineering, alert investigation, evidence validation, and bounded automated response.
 
+Key capabilities demonstrated:
 
-This lab gave me hands-on practice with the SOC workflow from telemetry
-
-collection through detection, investigation, evidence validation, and
-
-bounded response.
-
-
-
-The main focus was understanding how different telemetry sources can be
-
-combined during an investigation rather than relying on a single alert.
+- Deploying and operating a multi-endpoint Wazuh SOC environment
+- Engineering and validating custom Wazuh detection rules
+- Correlating endpoint, authentication, process, file, and network telemetry
+- Investigating alerts using contextual event and process information
+- Applying MITRE ATT&CK techniques to detection scenarios
+- Performing positive and negative detection testing
+- Validating bounded automated response using Wazuh Active Response
+- Documenting investigation methodology, evidence, and validation limitations
 
