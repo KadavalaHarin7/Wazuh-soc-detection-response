@@ -1,4 +1,4 @@
-&#x20;Wazuh SOC Detection, Monitoring \& Response Lab
+&#x20;Wazuh SIEM Implementation & Custom Security Threat Detection in a Virtual Lab
 
 
 
